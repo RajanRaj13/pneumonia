@@ -1,0 +1,42 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+
+# Local development settings
+*.sqlite3
+*.pyc
+*.pyo
+
+# Static files
+staticfiles/
+
+# Media files
+media/
+
+# Virtual environment
+venv/
+.env
+
+# IDE or editor specific files
+.vscode/
+.idea/
+
+# Secret keys
+*.secret
+
+# Log files
+*.log
+
+# Compiled Python files
+*.pyc
+
+# macOS
+.DS_Store
+
+# Node.js
+node_modules/
+
+# Dependencies
+pip-wheel-metadata/
+
+*.pkl
